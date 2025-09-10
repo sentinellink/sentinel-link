@@ -43,19 +43,18 @@ export default function Home() {
               <p className="text-xl text-gray-300 mb-8">
                 Comprehensive Penetration Testing and Vulnerability Assessment services tailored to meet the security needs of businesses across various sectors.
               </p>
-              <div className="flex flex-col sm:flex-row gap-4">
-                <a 
-                  href="https://calendly.com/stillbigjosh/30min" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition text-center"
-                >
-                  Request Security Assessment
-                </a>
-                <a href="#services" className="border border-blue-500 text-blue-400 hover:bg-blue-900/30 font-medium py-3 px-6 rounded-lg transition text-center">
-                  Learn More
-                </a>
-              </div>
+              // Around line 30-35 in the Hero Section
+<div className="flex flex-col sm:flex-row gap-4">
+  <a 
+    href="#investment"  // Changed from Calendly link to #investment
+    className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition text-center"
+  >
+    Request Security Assessment
+  </a>
+  <a href="#services" className="border border-blue-500 text-blue-400 hover:bg-blue-900/30 font-medium py-3 px-6 rounded-lg transition text-center">
+    Learn More
+  </a>
+</div>
             </div>
             <div className="relative">
               <div className="absolute inset-0 bg-blue-500/20 blur-3xl rounded-full"></div>
