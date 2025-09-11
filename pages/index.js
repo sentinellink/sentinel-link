@@ -491,7 +491,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-3">Security Articles</h3>
                 <p className="text-gray-400 mb-4">In-depth analysis of current threat landscape and defense strategies</p>
-                <a href="https://open.substack.com/pub/sentinellink/p/coming-soon?r=7uta6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
+                <a href="https://sentinellink.substack.com/welcome" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -521,7 +521,7 @@ export default function Home() {
           
           <div className="text-center mt-12">
             <a 
-              href="https://open.substack.com/pub/sentinellink/p/coming-soon?r=7uta6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true" 
+              href="https://sentinellink.substack.com/welcome" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition"
