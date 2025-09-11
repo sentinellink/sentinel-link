@@ -451,7 +451,7 @@ export default function Home() {
                 </svg>
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-3">Security Whitepaper</h3>
+                <h3 className="text-xl font-bold mb-3">Security Articles</h3>
                 <p className="text-gray-400 mb-4">In-depth analysis of current threat landscape and defense strategies</p>
                 <a href="https://sentinellink.substack.com" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
                   Read More
