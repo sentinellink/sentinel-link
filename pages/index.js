@@ -467,7 +467,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-3">Cybersecurity Checklist</h3>
                 <p className="text-gray-400 mb-4">Essential security tips and measures every business should implement</p>
-                <a href="https://sentinellink.substack.com/welcome" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
+                <a href="blog#checklists" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -485,7 +485,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-3">Security Articles</h3>
                 <p className="text-gray-400 mb-4">In-depth analysis of current threat landscape and defense strategies</p>
-                <a href="https://sentinellink.substack.com/welcome" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
+                <a href="blog#articles" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -503,7 +503,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-3">Webinar Series</h3>
                 <p className="text-gray-400 mb-4">Monthly webinars on emerging security topics and best practices</p>
-                <a href="https://sentinellink.substack.com/welcome" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
+                <a href="blog" className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center">
                   Register Now
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
